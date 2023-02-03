@@ -1,0 +1,15 @@
+{
+ "name": "card",
+ "version": "1.0.0",
+ "description": "CSS challenge",
+ "main": "index.js",
+ "scripts": {
+  "watch:sass": "sass --watch ./sass/main.scss:index.css"
+ },
+ "author": "Eddythemachine",
+ "license": "MIT",
+ "dependencies": {
+  "icheck-material": "^1.0.1",
+  "sass": "^1.57.1"
+ }
+}
